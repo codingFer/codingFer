@@ -240,7 +240,7 @@ Open to collaborations, freelance projects and Full Stack development opportunit
 
 Let's build something amazing together!
 
-<a href="https://pokemon.codingfer.com">
+<a href="https://pokemon2.codingfer.com">
 <img src="https://img.shields.io/badge/▶_VISIT_MY_PORTFOLIO-FFCB05?style=for-the-badge&labelColor=172B4D"/>
 </a>
 
